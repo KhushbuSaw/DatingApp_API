@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp_API", "DatingApp_API\DatingApp_API.csproj", "{9547265B-2EBB-4FB0-A4DE-EF95EADC1BDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp_Shared", "DatingApp_Shared\DatingApp_Shared.csproj", "{EA2BBD62-740C-4BE8-B318-641228C315FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp_BLL", "DatingApp_BLL\DatingApp_BLL.csproj", "{FD0DBE00-06BC-41EC-B246-E6676818BF5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp_Infrastructure", "DatingApp_Infrastructure\DatingApp_Infrastructure.csproj", "{48B95FD7-5072-49C1-9B9E-A2547538E244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9547265B-2EBB-4FB0-A4DE-EF95EADC1BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9547265B-2EBB-4FB0-A4DE-EF95EADC1BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9547265B-2EBB-4FB0-A4DE-EF95EADC1BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9547265B-2EBB-4FB0-A4DE-EF95EADC1BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2BBD62-740C-4BE8-B318-641228C315FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2BBD62-740C-4BE8-B318-641228C315FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2BBD62-740C-4BE8-B318-641228C315FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2BBD62-740C-4BE8-B318-641228C315FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD0DBE00-06BC-41EC-B246-E6676818BF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0DBE00-06BC-41EC-B246-E6676818BF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0DBE00-06BC-41EC-B246-E6676818BF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0DBE00-06BC-41EC-B246-E6676818BF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48B95FD7-5072-49C1-9B9E-A2547538E244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B95FD7-5072-49C1-9B9E-A2547538E244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B95FD7-5072-49C1-9B9E-A2547538E244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B95FD7-5072-49C1-9B9E-A2547538E244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D75F47BA-EF11-4CCF-AA1C-EB1BF6DA005A}
+	EndGlobalSection
+EndGlobal
